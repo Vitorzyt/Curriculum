@@ -14,7 +14,7 @@ class Coding_Experiences extends StatelessWidget {
           const Padding(
             padding: EdgeInsets.all(5.0),
             child: Text(
-              'CODING EXPERIENCES',
+              'CODING EXPERIENCES ',
               style: TextStyle(color: Colors.black, fontSize: 25),
             ),
           ),
